@@ -19,7 +19,7 @@ Publisher supporters have chosen to make a contribution that is relative to the 
   <input name="cmd" type="hidden" value="_s-xclick"/>
   <input name="hosted_button_id" type="hidden" value="T8RHKSMJ2JN7S"/>
   <input name="on0" type="hidden" value="Membership options"/>
-  <label for="os0">Membership options</label>
+  <label for="os0">Support options</label>
   <select name="os0">
     <option selected="selected" value="Extra large">
       Extra large : £3,000.00 GBP - yearly
