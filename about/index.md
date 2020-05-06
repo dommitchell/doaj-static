@@ -11,7 +11,7 @@ DOAJ is a community-curated list of open access journals and aims to be the star
 
 DOAJ is a co-author to the [Principles of Transparency and Best Practice in Scholarly Publishing](/apply/transparency) which provide the skeleton to the [DOAJ criteria](/apply/guide).
 
-DOAJ is a membership organisation. A DOAJ Membership is a clear statement of intent and proves a commitment to quality, peer-reviewed open access.
+DOAJ is relies on the generosity of its supporters. Supporting DOAJ is a clear statement of intent and proves a commitment to quality, peer-reviewed open access.
 
 ## Our mission
 DOAJ's mission is to increase the visibility, accessibility, reputation, usage and impact of quality, peer-reviewed, open access scholarly research journals globally, regardless of discipline, geography or language. DOAJ will work with editors, publishers and journal owners to help them understand the value of best practice publishing and standards and apply those to their own operations. DOAJ is committed to being 100% independent and maintaining all of its services and metadata as free to use or reuse for everyone.
